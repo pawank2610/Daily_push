@@ -1,0 +1,5 @@
+# Ignore Git backups
+*.git.backup
+.git.backup/
+**/.git.backup/
+**/.*.backup
